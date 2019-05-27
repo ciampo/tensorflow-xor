@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: monospace;
+  justify-content: center;
+}
+
+canvas {
+  outline: 1px solid black;
+}
+
+
